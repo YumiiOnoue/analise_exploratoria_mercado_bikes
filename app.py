@@ -4,7 +4,7 @@ from src.extraction import load_data
 st.set_page_config(layout='wide')
 
 def  main():
-    df _raw= load_data
+    df_raw= load_data
     
     st.dataframe(df_raw)
 
