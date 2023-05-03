@@ -55,6 +55,7 @@ def create_answers_section(df):
     )
     asw.rd1_question_14(df)
 
+    st.header("Second Round")
     st.subheader(
         "Are the bikes with a unique owner more expense on avarege than the other bikes?"
     )
@@ -68,6 +69,7 @@ def create_answers_section(df):
     st.subheader("Which company has the most bikes registered?")
     asw.rd2_question_7(df)
 
+    st.header("Third Round")
     st.subheader("Which company has the most expensive bikes on avarege?")
     asw.rd3_question_2(df)
 
