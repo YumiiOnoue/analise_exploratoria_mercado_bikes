@@ -44,7 +44,9 @@ Além disso, eles podem ser encontrados dentro do diretóirio `data` deste proje
 
 Podemos concluir que o valor de revenda está ligado positivamente ao número de donos. Fatores como quilometragem e maior idade pode impactar de forma negativa o valor das motos, e as principais fabricantes são: Bajaj, Harley-Davidson e Activia.
 
-<img scr="motos_indicados.jpeg">
+Entretanto, o CEO pediu uma seleção de motos com no máximo 3 anos de uso, no máximo 40 mil quilometros rodados, que sejam de um único dono, que estejam sendo vendidas por possoas físicas e que tenham o valor pretendido de venda menor que o valor do showroom. Para responder essa solicitação, temos a tabela abaixo:
+
+<img src="motos_indicados.jpeg" alt="Resposta principal">
 
 ## Próximos Passos
 * Criação de um dashboard interativo para o CEO 
