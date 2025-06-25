@@ -1,4 +1,4 @@
-# Análise de Motocicletas
+# Análise Exploratória do Mercado de Motocicletas
 
 ## Contexto do Problema
 A Xtreme Groovy Bikes Sales é uma empresa de revenda de motocicletas. Seu modelo de nogócio é revender motocicletas usadas. Com a crescente do valor dos veículos usados, a XGB Sales, como é conhecida, deseja expandir os seus negócios. Você foi contratado como cientista de dados pela empresa XGB Sales para ajudá-los a encotrar as melhores motocicletas para revenda. 
